@@ -3,6 +3,10 @@
 Software developer transitioning into embedded systems and systems engineering.
 Currently based in the Dallas-Fort Worth area.
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/ef5263fe-f41e-400d-99b7-3609659ff471/thumbnail" >
+</p>
+
 ## What I'm Working On
 
 - 🔧 Rewriting [gearTracker](https://github.com/alexschexc/gear-tracker-zig) in Zig
