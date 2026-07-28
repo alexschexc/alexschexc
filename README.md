@@ -9,6 +9,7 @@ Currently based in the Dallas-Fort Worth area.
 
 ## What I'm Working On
 
+- 🔧 Writing a Strategy Board games application that ships with multiple games (Chess, Shogi, etc.) in Kotlin
 - 🔧 Rewriting [gearTracker](https://github.com/alexschexc/gear-tracker-zig) in Zig
   for native cross-platform compilation
 - 📡 Embedded development with ESP32
